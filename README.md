@@ -1,0 +1,2 @@
+# opencv_watch_haarcascade
+A project on object detection, which in this case is a watch. Here openCV along with python is used for coding. The examples of negative and positive images are copied to online server (digital ocean) and additional positive samples are created and stored there itself. The training of the Haar Cascade is also done on this online server after which a .xml file of the cascade is received. This file is then copied to the physical computer and the code is run.
